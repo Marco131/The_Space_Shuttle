@@ -1,3 +1,3 @@
 # The_Space_Shuttle
-A spcae shooter game by the M.A.Y team
+A space shooter game by the M.A.Y team
 
